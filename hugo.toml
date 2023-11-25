@@ -1,0 +1,101 @@
+baseURL = ''
+languageCode = "en-us"
+title = "Hi This is Forest!"
+theme = "huey"
+canonifyurls = true
+
+[params]
+  # General site metadata, used in header and other places
+  #  frontImage = "/content/posts/new_post/header.png"
+  author = "Forest Zhang"
+  dateFormat = "January 2, 2023"
+  description = "Welcome to my personal website! Still under vonstruction though……"
+  keywords = ""
+  email = "forest_zhang@tom.com"
+
+  # Use your Font Awesome token here. Example token is fake, so please get your own.
+  fontawesomeToken = "bdb72c483b"
+
+#   Use content from _index.md on homepage
+#   useIndexContent = true # default is false
+#
+#   Navigation, use Bulma options here
+#   navbarStyle = "is-transparent" # Default is "is-transparent"
+#   navbarTitleStyle = "has-text-black" # Default is "has-text-black"
+#
+#   # Override Bulma schemes with values
+#   schemeMain = "" # Change background color, default is white
+#   link = "#000" # Bulma default is blue, though theme is black
+#   linkHover = "#888" # Bulma default is grey-darker, though theme is #888
+#   footerBackgroundColor = "false" # Bulma default is #fafafa. You can use "false" or #hex
+#   navbarItemHoverColor = "#444" # Bulma default is blue, though theme is #444
+#   navbarItemColor = "#888" # Bulma default is grey-dark, though theme is #888
+
+  # Set static directory locations and favicon
+  favicon = "favicon.ico"
+  staticDir = ['static']
+
+
+[menu]
+
+# Top Navigation
+[[menu.nav]]
+  identifier = 'home'
+  name = 'Home'
+  title = 'Home'
+  url = '/'
+  weight = 10
+
+#[[menu.nav]]
+#  identifier = 'archive'
+#  name = 'Archive'
+#  title = "archive"
+#  url = '/archive/'
+#  weight = 20
+#
+#[[menu.nav]]
+#  identifier = 'About'
+#  name = 'About'
+#  title = "about"
+#  url = '/about/'
+#  weight = 30
+
+[[menu.nav]]
+  identifier = 'Contact'
+  name = 'Contact'
+  title = "Contace"
+  url = '/contact/'
+  weight = 40
+# Contacts
+
+[[ menu.social]]
+  identifier = 'linkedin'
+  name = 'LinkedIn'
+  pre = "<i class='fab fa-linkedin fa-lg'></i>"
+  url = "https://www.linkedin.com/in/musen-zhang-63b5a2298/"
+  weight = 10
+
+[[ menu.social]]
+  identifier = 'github'
+  name = 'Github'
+  pre = "<i class='fab fa-github fa-lg'></i>"
+  url = "https://github.com/zhangmuduo"
+  weight = 20
+
+[[ menu.social]]
+  identifier = 'twitter'
+  name = 'Twitter'
+  pre = "<i class='fab fa-twitter fa-lg'></i>"
+  url = "https://twitter.com/Musen_kaku0807"
+  weight = 30
+
+[[ menu.social]]
+  identifier = 'bilibili'
+  name = 'Bilibili'
+  pre = "<i class='fab fa-bilibili fa-lg'></i>"
+  url = "https://space.bilibili.com/66262494"
+  weight = 40
+
+[outputs]
+  home = ['HTML', 'RSS']
+  pages = ['HTML']
