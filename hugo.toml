@@ -32,7 +32,7 @@ canonifyurls = true
 #   navbarItemColor = "#888" # Bulma default is grey-dark, though theme is #888
 
   # Set static directory locations and favicon
-  favicon = "favicon.ico"
+  favicon = "favicon_musen.ico"
   staticDir = ['static']
 
 
