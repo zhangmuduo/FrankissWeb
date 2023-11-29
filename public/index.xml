@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi This is Forest!</title>
+    <link>/</link>
+    <description>Recent content on Hi This is Forest!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archive</title>
+      <link>/archive/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/archive/</guid>
+      <description>Will fill the blank when everything is set up :)
+I will put some of my posts here!</description>
+    </item>
+    <item>
+      <title>About Me~</title>
+      <link>/about/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>Will fill the blank when everything is set up :)</description>
+    </item>
+    <item>
+      <title>Essay 2</title>
+      <link>/archive/examplepost/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>/archive/examplepost/</guid>
+      <description>Content text goes here&amp;hellip; Does about change when this one changes?</description>
+    </item>
+  </channel>
+</rss>
