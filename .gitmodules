@@ -1,0 +1,3 @@
+[submodule "themes/huey"]
+	path = themes/huey
+	url = https://github.com/alloydwhitlock/huey
