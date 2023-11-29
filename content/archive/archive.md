@@ -1,6 +1,8 @@
 ---
 title: "Archive"
 date: 2023-11-25
+header_image: "KAKU.png"
+alt_text: "Descriptive text for the image"
 draft: false
 url: /archive/
 type: pages
