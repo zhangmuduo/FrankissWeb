@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Memories: A Deep Learning Journey to Aid Alzheimer’s Patients"
-date: 2023-11-29
+date: 2023-11-30
 # lastmod: 2021-12-29
 draft: false
 header_image: "ego.jpg"

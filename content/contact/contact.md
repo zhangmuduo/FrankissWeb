@@ -1,5 +1,5 @@
 ---
-title: "contact"
+title: "Contact"
 date: 2023-11-25
 #header_image: "KAKU.jpg"
 #alt_text: "My favourite One Piece charactor -- KAKU (also the icon for my website)"
