@@ -60,12 +60,12 @@ canonifyurls = true
 #  url = '/about/'
 #  weight = 30
 
-[[menu.nav]]
-  identifier = 'Contact'
-  name = 'Contact'
-  title = "Contace"
-  url = '/contact/'
-  weight = 40
+#[[menu.nav]]
+#  identifier = 'Contact'
+#  name = 'Contact'
+#  title = "Contace"
+#  url = '/contact/'
+#  weight = 40
 # Contacts
 
 [[ menu.social]]
